@@ -1,0 +1,113 @@
+"","study","year","location","state","block","treat","ai","sev","yld"
+"1",424,2020,"CAMPO VERDE","MT",1,"Aproach Prima","picoxystrobin + cyproconazole",28,3060
+"2",424,2020,"CAMPO VERDE","MT",2,"Aproach Prima","picoxystrobin + cyproconazole",28,3145
+"3",424,2020,"CAMPO VERDE","MT",3,"Aproach Prima","picoxystrobin + cyproconazole",47,3104
+"4",424,2020,"CAMPO VERDE","MT",4,"Aproach Prima","picoxystrobin + cyproconazole",50,3072
+"5",424,2020,"CAMPO VERDE","MT",1,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",38,3699
+"6",424,2020,"CAMPO VERDE","MT",2,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",35,3498
+"7",424,2020,"CAMPO VERDE","MT",3,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",45,3420
+"8",424,2020,"CAMPO VERDE","MT",4,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",40,3387
+"9",424,2020,"CAMPO VERDE","MT",1,"Control","Control",55,2658
+"10",424,2020,"CAMPO VERDE","MT",2,"Control","Control",70,2994
+"11",424,2020,"CAMPO VERDE","MT",3,"Control","Control",72,3052
+"12",424,2020,"CAMPO VERDE","MT",4,"Control","Control",65,2997
+"13",424,2020,"CAMPO VERDE","MT",1,"Elatus","Azoxystrobin + Benzovindiflupir",37,3282
+"14",424,2020,"CAMPO VERDE","MT",2,"Elatus","Azoxystrobin + Benzovindiflupir",25,3502
+"15",424,2020,"CAMPO VERDE","MT",3,"Elatus","Azoxystrobin + Benzovindiflupir",27,3028
+"16",424,2020,"CAMPO VERDE","MT",4,"Elatus","Azoxystrobin + Benzovindiflupir",29,3321
+"17",424,2020,"CAMPO VERDE","MT",1,"FOX","trifloxystrobin + prothioconazole",29,3500
+"18",424,2020,"CAMPO VERDE","MT",2,"FOX","trifloxystrobin + prothioconazole",33,3270
+"19",424,2020,"CAMPO VERDE","MT",3,"FOX","trifloxystrobin + prothioconazole",35,3491
+"20",424,2020,"CAMPO VERDE","MT",4,"FOX","trifloxystrobin + prothioconazole",37,3362
+"21",424,2020,"CAMPO VERDE","MT",1,"Fusao","metominostrobin + tebuconazole",25,3446
+"22",424,2020,"CAMPO VERDE","MT",2,"Fusao","metominostrobin + tebuconazole",36,3259
+"23",424,2020,"CAMPO VERDE","MT",3,"Fusao","metominostrobin + tebuconazole",20,3639
+"24",424,2020,"CAMPO VERDE","MT",4,"Fusao","metominostrobin + tebuconazole",37,3438
+"25",424,2020,"CAMPO VERDE","MT",1,"Vessarya","Benzovindiflupir + Picoxystrobin",30,3435
+"26",424,2020,"CAMPO VERDE","MT",2,"Vessarya","Benzovindiflupir + Picoxystrobin",30,3391
+"27",424,2020,"CAMPO VERDE","MT",3,"Vessarya","Benzovindiflupir + Picoxystrobin",25,2934
+"28",424,2020,"CAMPO VERDE","MT",4,"Vessarya","Benzovindiflupir + Picoxystrobin",28,3229
+"29",425,2020,"PEDRA PRETA","MT",1,"Aproach Prima","picoxystrobin + cyproconazole",5,4027
+"30",425,2020,"PEDRA PRETA","MT",2,"Aproach Prima","picoxystrobin + cyproconazole",5,4362
+"31",425,2020,"PEDRA PRETA","MT",3,"Aproach Prima","picoxystrobin + cyproconazole",5,3823
+"32",425,2020,"PEDRA PRETA","MT",4,"Aproach Prima","picoxystrobin + cyproconazole",5,4245
+"33",425,2020,"PEDRA PRETA","MT",1,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",7,3815
+"34",425,2020,"PEDRA PRETA","MT",2,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",7,4045
+"35",425,2020,"PEDRA PRETA","MT",3,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",5,4045
+"36",425,2020,"PEDRA PRETA","MT",4,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",5,4078
+"37",425,2020,"PEDRA PRETA","MT",1,"Control","Control",40,4038
+"38",425,2020,"PEDRA PRETA","MT",2,"Control","Control",35,3909
+"39",425,2020,"PEDRA PRETA","MT",3,"Control","Control",38,3994
+"40",425,2020,"PEDRA PRETA","MT",4,"Control","Control",40,4152
+"41",425,2020,"PEDRA PRETA","MT",1,"Elatus","Azoxystrobin + Benzovindiflupir",5,4060
+"42",425,2020,"PEDRA PRETA","MT",2,"Elatus","Azoxystrobin + Benzovindiflupir",7,4123
+"43",425,2020,"PEDRA PRETA","MT",3,"Elatus","Azoxystrobin + Benzovindiflupir",7,3634
+"44",425,2020,"PEDRA PRETA","MT",4,"Elatus","Azoxystrobin + Benzovindiflupir",10,3832
+"45",425,2020,"PEDRA PRETA","MT",1,"FOX","trifloxystrobin + prothioconazole",5,3881
+"46",425,2020,"PEDRA PRETA","MT",2,"FOX","trifloxystrobin + prothioconazole",3,3932
+"47",425,2020,"PEDRA PRETA","MT",3,"FOX","trifloxystrobin + prothioconazole",7,4436
+"48",425,2020,"PEDRA PRETA","MT",4,"FOX","trifloxystrobin + prothioconazole",5,4380
+"49",425,2020,"PEDRA PRETA","MT",1,"Fusao","metominostrobin + tebuconazole",5,3931
+"50",425,2020,"PEDRA PRETA","MT",2,"Fusao","metominostrobin + tebuconazole",10,4264
+"51",425,2020,"PEDRA PRETA","MT",3,"Fusao","metominostrobin + tebuconazole",5,3908
+"52",425,2020,"PEDRA PRETA","MT",4,"Fusao","metominostrobin + tebuconazole",7,4152
+"53",425,2020,"PEDRA PRETA","MT",1,"Vessarya","Benzovindiflupir + Picoxystrobin",5,4040
+"54",425,2020,"PEDRA PRETA","MT",2,"Vessarya","Benzovindiflupir + Picoxystrobin",7,4597
+"55",425,2020,"PEDRA PRETA","MT",3,"Vessarya","Benzovindiflupir + Picoxystrobin",7,4072
+"56",425,2020,"PEDRA PRETA","MT",4,"Vessarya","Benzovindiflupir + Picoxystrobin",5,4219
+"57",426,2020,"PRIMAVERA DO LESTE","MT",1,"Aproach Prima","picoxystrobin + cyproconazole",30,3720
+"58",426,2020,"PRIMAVERA DO LESTE","MT",2,"Aproach Prima","picoxystrobin + cyproconazole",25,4007
+"59",426,2020,"PRIMAVERA DO LESTE","MT",3,"Aproach Prima","picoxystrobin + cyproconazole",25,4061
+"60",426,2020,"PRIMAVERA DO LESTE","MT",4,"Aproach Prima","picoxystrobin + cyproconazole",26,3092
+"61",426,2020,"PRIMAVERA DO LESTE","MT",1,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",20,3720
+"62",426,2020,"PRIMAVERA DO LESTE","MT",2,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",20,3993
+"63",426,2020,"PRIMAVERA DO LESTE","MT",3,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",20,3825
+"64",426,2020,"PRIMAVERA DO LESTE","MT",4,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",25,3340
+"65",426,2020,"PRIMAVERA DO LESTE","MT",1,"Control","Control",70,2663
+"66",426,2020,"PRIMAVERA DO LESTE","MT",2,"Control","Control",70,3561
+"67",426,2020,"PRIMAVERA DO LESTE","MT",3,"Control","Control",70,3762
+"68",426,2020,"PRIMAVERA DO LESTE","MT",4,"Control","Control",60,3631
+"69",426,2020,"PRIMAVERA DO LESTE","MT",1,"Elatus","Azoxystrobin + Benzovindiflupir",50,3007
+"70",426,2020,"PRIMAVERA DO LESTE","MT",2,"Elatus","Azoxystrobin + Benzovindiflupir",35,3655
+"71",426,2020,"PRIMAVERA DO LESTE","MT",3,"Elatus","Azoxystrobin + Benzovindiflupir",45,3334
+"72",426,2020,"PRIMAVERA DO LESTE","MT",4,"Elatus","Azoxystrobin + Benzovindiflupir",45,3690
+"73",426,2020,"PRIMAVERA DO LESTE","MT",1,"FOX","trifloxystrobin + prothioconazole",15,3802
+"74",426,2020,"PRIMAVERA DO LESTE","MT",2,"FOX","trifloxystrobin + prothioconazole",20,3738
+"75",426,2020,"PRIMAVERA DO LESTE","MT",3,"FOX","trifloxystrobin + prothioconazole",25,3744
+"76",426,2020,"PRIMAVERA DO LESTE","MT",4,"FOX","trifloxystrobin + prothioconazole",20,3591
+"77",426,2020,"PRIMAVERA DO LESTE","MT",1,"Fusao","metominostrobin + tebuconazole",15,3708
+"78",426,2020,"PRIMAVERA DO LESTE","MT",2,"Fusao","metominostrobin + tebuconazole",20,3767
+"79",426,2020,"PRIMAVERA DO LESTE","MT",3,"Fusao","metominostrobin + tebuconazole",20,3647
+"80",426,2020,"PRIMAVERA DO LESTE","MT",4,"Fusao","metominostrobin + tebuconazole",35,3713
+"81",426,2020,"PRIMAVERA DO LESTE","MT",1,"Vessarya","Benzovindiflupir + Picoxystrobin",25,3792
+"82",426,2020,"PRIMAVERA DO LESTE","MT",2,"Vessarya","Benzovindiflupir + Picoxystrobin",25,4342
+"83",426,2020,"PRIMAVERA DO LESTE","MT",3,"Vessarya","Benzovindiflupir + Picoxystrobin",25,3529
+"84",426,2020,"PRIMAVERA DO LESTE","MT",4,"Vessarya","Benzovindiflupir + Picoxystrobin",25,3498
+"85",427,2020,"FAXINAL","PR",1,"Aproach Prima","picoxystrobin + cyproconazole",38,4113
+"86",427,2020,"FAXINAL","PR",2,"Aproach Prima","picoxystrobin + cyproconazole",45,4091
+"87",427,2020,"FAXINAL","PR",3,"Aproach Prima","picoxystrobin + cyproconazole",30,4420
+"88",427,2020,"FAXINAL","PR",4,"Aproach Prima","picoxystrobin + cyproconazole",35,3911
+"89",427,2020,"FAXINAL","PR",1,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",38,4306
+"90",427,2020,"FAXINAL","PR",2,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",20,3927
+"91",427,2020,"FAXINAL","PR",3,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",40,4218
+"92",427,2020,"FAXINAL","PR",4,"Ativum","epoxiconazole + fluxapiroxade+pyraclostrobin",45,4346
+"93",427,2020,"FAXINAL","PR",1,"Control","Control",95,3571
+"94",427,2020,"FAXINAL","PR",2,"Control","Control",95,3307
+"95",427,2020,"FAXINAL","PR",3,"Control","Control",90,3086
+"96",427,2020,"FAXINAL","PR",4,"Control","Control",95,3488
+"97",427,2020,"FAXINAL","PR",1,"Elatus","Azoxystrobin + Benzovindiflupir",70,3534
+"98",427,2020,"FAXINAL","PR",2,"Elatus","Azoxystrobin + Benzovindiflupir",60,4178
+"99",427,2020,"FAXINAL","PR",3,"Elatus","Azoxystrobin + Benzovindiflupir",70,4128
+"100",427,2020,"FAXINAL","PR",4,"Elatus","Azoxystrobin + Benzovindiflupir",75,3966
+"101",427,2020,"FAXINAL","PR",1,"FOX","trifloxystrobin + prothioconazole",10,4727
+"102",427,2020,"FAXINAL","PR",2,"FOX","trifloxystrobin + prothioconazole",8,4749
+"103",427,2020,"FAXINAL","PR",3,"FOX","trifloxystrobin + prothioconazole",15,4758
+"104",427,2020,"FAXINAL","PR",4,"FOX","trifloxystrobin + prothioconazole",15,4343
+"105",427,2020,"FAXINAL","PR",1,"Fusao","metominostrobin + tebuconazole",35,4454
+"106",427,2020,"FAXINAL","PR",2,"Fusao","metominostrobin + tebuconazole",50,4652
+"107",427,2020,"FAXINAL","PR",3,"Fusao","metominostrobin + tebuconazole",28,3718
+"108",427,2020,"FAXINAL","PR",4,"Fusao","metominostrobin + tebuconazole",35,3797
+"109",427,2020,"FAXINAL","PR",1,"Vessarya","Benzovindiflupir + Picoxystrobin",45,3653
+"110",427,2020,"FAXINAL","PR",2,"Vessarya","Benzovindiflupir + Picoxystrobin",55,4356
+"111",427,2020,"FAXINAL","PR",3,"Vessarya","Benzovindiflupir + Picoxystrobin",40,4105
+"112",427,2020,"FAXINAL","PR",4,"Vessarya","Benzovindiflupir + Picoxystrobin",48,4406
